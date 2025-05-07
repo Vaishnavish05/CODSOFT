@@ -32,11 +32,17 @@ Welcome to my collection of Python projects built during my first year of colleg
    
 2. Navigate to the project directory:  
    `cd Python-Projects`
+### 🔧 How to Run
+1. Clone the repo:  
+   `git clone https://github.com/Vaishnavish05/Python-Projects.git`
+   
+2. Navigate to the project directory:  
+   `cd Python-Projects`
 
 3. Run the script you want to try:
    - For **Calculator**: `python calculator.py`
-   - For **Password Generator**: `python password%20generator.py`
-   - For **To-Do List**: `python to-do%20list.py`
+   - For **Password Generator**: `python password_generator.py`
+   - For **To-Do List**: `python to_do_list.py`
 
 ---
 
