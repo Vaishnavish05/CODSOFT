@@ -28,13 +28,7 @@ Welcome to my collection of Python projects built during my first year of colleg
 
 ### 🔧 How to Run
 1. Clone the repo:  
-   `git clone https://github.com/Vaishnavish05/Python-Projects.git`
-   
-2. Navigate to the project directory:  
-   `cd Python-Projects`
-### 🔧 How to Run
-1. Clone the repo:  
-   `git clone https://github.com/Vaishnavish05/Python-Projects.git`
+   `git clone https://github.com/Vaishnavish05/CODSOFT.git`
    
 2. Navigate to the project directory:  
    `cd Python-Projects`
