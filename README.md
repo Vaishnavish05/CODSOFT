@@ -40,4 +40,4 @@ Welcome to my collection of Python projects built during my first year of colleg
 
 ---
 
-🦄 _“Not just coding for the grades — coding for the *glow-up*.”_
+🦄 _“Learning , Leading , growing”_
